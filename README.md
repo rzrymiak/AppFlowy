@@ -87,4 +87,4 @@ Distributed under the AGPLv3 License. See `LICENSE.md` for more information.
 Special thanks to these amazing projects which help power AppFlowy.IO:
 
 - [flutter-quill](https://github.com/singerdmx/flutter-quill)
-- [cargo-make](https://github.com/sagiegurari/cargo-make).
+- [cargo-make](https://github.com/sagiegurari/cargo-make)
